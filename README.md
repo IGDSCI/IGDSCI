@@ -4,7 +4,6 @@
 
 - 👦 18 anos
 - 🏡 Caçador -> Curitiba
-- 🌲 Gosto muito da natureza
 - 🎓 2022 - 2025
 
 <div>
