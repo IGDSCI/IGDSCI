@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gustavo Capeletti
 
-### Atualmente estou cursando engenharia de software na PUC-PR. Decidi entrar nessa área devido a minha grande familiaridade com computadores que tinha desde o início de minha infância, até então sempre venho buscando aprimorar meus conhecimentos.
+### Atualmente estou cursando engenharia de software na PUC-PR. Decidi entrar nessa área devido a minha grande familiaridade com a tecnologia que tinha desde o início de minha infância, até então sempre venho buscando aprimorar meus conhecimentos.
 
 - 👦 19 anos
 - 🏡 Caçador -> Curitiba
